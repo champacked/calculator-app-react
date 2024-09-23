@@ -1,5 +1,3 @@
-#host Link https://astounding-sherbet-af3d50.netlify.app/
-
 # Calculator
 
 This is a simple calculator built using React. It performs basic arithmetic calculations and supports additional operations like square root, exponentiation, and logarithm.
